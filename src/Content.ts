@@ -75,7 +75,7 @@ export const content: ContentConfig = {
   seo: {
     title: "Fitness Academia - Começe 2026 Em Forma: Garanta Sua Matrícula Com Desconto",
     description: "Treinos inovadores, profissionais qualificados e um ambiente acolhedor",
-    domain: "https://fitnessacademia.netlify.app", // URL do site (sem barra no final)
+    domain: "https://fitnessacademiaourobranco.netlify.app", // URL do site (sem barra no final)
     path: "/",
     themeColor: "#4DE03B", // Cor do tema (barra de endereço mobile)
     keywords: "academia, musculação, fitness, saúde, treino, jiu jitsu, muay thai, fit dance, lutas, funcional, londrina",
